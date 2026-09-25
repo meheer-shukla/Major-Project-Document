@@ -45,8 +45,6 @@ The system follows a classic **three-layer architecture**:
 
 ### Entity-Relationship Diagram
 
-<img src="assets/er-diagram.png" alt="Database ER diagram" width="100%">
-
 Core entities include `EMPLOYEE`, `DEPARTMENT`, `PROJECT`, and `DEPENDENT`, related through associations such as `WORKS`, `MANAGES`, `Assigned to`, and `Supervision`.
 
 ---
